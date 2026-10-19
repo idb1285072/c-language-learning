@@ -56,6 +56,8 @@ compile_commands.json
 *.log
 *.bak
 *.swp
+*/tempCodeRunnerFile.c
+*/tempCodeRunnerFile.cpp
 
 # vcpkg
 vcpkg_installed/
