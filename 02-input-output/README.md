@@ -1,0 +1,11 @@
+- `printf` and `scanf`
+- Comment
+- Token
+  - Keywords
+  - Escape Sequence
+  - Punctuators
+  - Operators
+- Data Type and Variable
+- `sizeof`
+- Character <-> ASCII Value
+- lower case <-> upper case (with library function, without library function)
